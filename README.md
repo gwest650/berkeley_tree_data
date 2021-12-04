@@ -20,3 +20,15 @@ From the City of Berkeley:
 % pyenv activate berkeley_tree_data-3.8.5 
 % jupyter lab
 ```
+
+## How to update my repo
+```sh
+% git status 
+# look for modified and unstaged items
+% git add README.md 
+# use git add to add any other files that need to be added
+% git commit -m "updated README"  # this is called a "commit message"
+# replaced what was inside the quotation marks is what I changed
+% git push origin main
+
+```
