@@ -27,8 +27,9 @@ From the City of Berkeley:
 # look for modified and unstaged items
 % git add README.md 
 # use git add to add any other files that need to be added
+# use git add . to add all the files
 % git commit -m "updated README"  # this is called a "commit message"
 # replaced what was inside the quotation marks is what I changed
-% git push origin main
+% git push origin main 
 
 ```
