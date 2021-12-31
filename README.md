@@ -11,6 +11,15 @@ From the City of Berkeley:
 > The dataset contains trees, planting sites and stumps. The inventory 
 > was completed on April 30, 2013.
 
+## Questions I would like the data to answer
+
+* How evenly spread out are the trees in Berkeley or are they denser in certain communities?
+* ~Are trees more common on private property as opposed to public property?~ I can't answer this question because the dataset only includes public trees
+* What are the most common trees in Berkeley? Where are they most likely situated?
+* How old are these trees? 
+* Are some more prone to be cut down?
+* ~Is there a way to forecast what the tree landscape will look like in future years?~ I can't answer this question because we would need more information from the City of Berkeley
+
 
 ## Instructions for how to activate pyenv / Jupyter Lab
 
