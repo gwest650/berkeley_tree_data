@@ -16,8 +16,8 @@ From the City of Berkeley:
 * How evenly spread out are the trees in Berkeley or are they denser in certain communities?
 * ~Are trees more common on private property as opposed to public property?~ I can't answer this question because the dataset only includes public trees
 * What are the most common trees in Berkeley? Where are they most likely situated?
-* How old are these trees? 
-* Are some more prone to be cut down?
+* ~How old are these trees?~  I can't answer this question because the data does not specify the age of each tree
+* ~Are some more prone to be cut down?~ I also cannot answer this question, it would require further analysis in the notes column to specify if a tree is dying or has been cut down. 
 * ~Is there a way to forecast what the tree landscape will look like in future years?~ I can't answer this question because we would need more information from the City of Berkeley
 
 
